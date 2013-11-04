@@ -38,7 +38,7 @@
 #include "dogm128.h"
 
 #define USER_BUFF_SIZE	(128)
-#define DOGM_A0_PIN		(AT91_PIN_PB4)
+#define DOGM_A0_PIN	(AT91_PIN_PB4)
 #define DOGM_RESET_PIN	(AT91_PIN_PB5)
 
 #define DOGM_CMD_SET_PAGE_ADDR	(0xb0)

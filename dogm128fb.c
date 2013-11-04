@@ -4,6 +4,9 @@
  * Description: dogm128fb LCD framebuffer driver
  *     License: GPLv2
  *     Depends: dogm128fb
+ *      Author: Copyright (c) 2013 Max Holtzberg <mholtzberg@uvc-ingenieure.de>
+ *
+ *  Derived from:
  *
  *      Author: Copyright (C) Miguel Ojeda Sandonis
  *        Date: 2006-10-31
