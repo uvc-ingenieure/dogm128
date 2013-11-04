@@ -8,7 +8,7 @@ DOGM128 display via SPI.
 
 Editing a Hello World with VI on an EA DOGM128
 
-.. image:: https://raw.github.com/uvc-ingenieure/dogm128/master/images/editing_with_vom.jpg
+.. image:: https://raw.github.com/uvc-ingenieure/dogm128/master/images/editing_with_vim.jpg
 
 Compiling and executing the code
 
